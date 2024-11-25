@@ -1,3 +1,26 @@
+# Projeto realizado para o trabalho final da materia Linguagem de Programação para a Internet.
+
+“No React, um componente é um módulo reutilizável que renderiza parte de nosso aplicativo. Estas partes podem ser grandes ou pequenas, mas geralmente, são claramente definidas: elas servem um único propósito, um propósito óbvio.”
+
+Extraído de: https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started#explorando_seu_primeiro_componente_react_%E2%80%94_%3Capp%3E
+
+ 
+O React Js tem como objetivo principal, desenvolvimento de componentes, que podem ser reutilizados na composição de telas para o usuário. 
+
+Desenvolva uma aplicação React chamada "Gerenciador de Tarefas". O usuário deve ser capaz de adicionar tarefas, marcar tarefas como concluídas e filtrar tarefas por seu status.
+
+
+Requisitos:
+
+1 - Adicionando Tarefas: Deve haver um campo de entrada (input) onde os usuários podem digitar o nome da tarefa e um botão para adicionar essa tarefa à lista.
+
+2 - Lista de Tarefas: As tarefas adicionadas devem ser listadas na tela, e ao lado de cada tarefa, deve haver uma caixa de seleção (checkbox) que o usuário pode marcar quando a tarefa for concluída.
+
+3 - Filtragem: Adicione botões ou links para permitir que os usuários filtrem as tarefas por seu status: Todas, Concluídas e Pendentes.
+
+4 - Estado Global: Use o contexto do React (useContext e useReducer ou useState) para gerenciar o estado global da aplicação.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
